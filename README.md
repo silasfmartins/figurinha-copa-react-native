@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Figurinha Copa" height="80" title="Plant Manager" src="./favicon.ico" />
+  <img alt="Figurinha Copa" height="80" title="Plant Manager" src="./assets/icon.png" />
 </h1>
 
 <p align="center">
