@@ -3,25 +3,25 @@
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/theme-switcher">
+  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/figurinha-copa-react-native">
 </p>
 
 ## 💻 Projeto
-App que muda a cor de fundo do site conforme o usuário quer (modo light e dark)
+App mobile que faz você ter uma figurinha da Copa do Mundo de 2022.
 
 ## 🔃 Requisitos para utilizar
 
-É necessário ter um navegador e internet acessar a aplicação.
+É necessário ter um dispositivo Android para instalar o APK em seu dispositivo.
 
 ## ✨ Tecnologias
 
--   [ x ] HTML 5
--   [ x ] CSS
--   [ x ] Javascript
+-   [ x ] Expo
+-   [ x ] Typescript
+-   [ x ] React Native
 
 ## :hammer_and_wrench: Features 
 
--   [ ] É possível mudar o tema de light para dark
+-   [ ] É possível tirar uma foto sua para servir como foto da figurinha da copa.
 
 ## 🆚 Versionamento / Versioning
 
@@ -29,18 +29,18 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível acessar a aplicação através da URL: https://silasfmartins.github.io/theme-switcher/ .
+É possível baixar a aplicação para Android neste link: https://drive.google.com/drive/folders/1r78w1KtOsU9jVxGNdOjnyWgMZQBvSsIA .
 
 ## 👨‍💻 Contribuir / Contributing
 
-Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/theme-switcher/blob/master/Contributing.md)
+Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/figurinha-copa-react-native/blob/master/Contributing.md)
 
 ## 💿 Histórico / History
 
-Consulte [Releases](https://github.com/silasfmartins/theme-switcher/releases) para ter um changelog completo.
+Consulte [Releases](https://github.com/silasfmartins/figurinha-copa-react-native/releases) para ter um changelog completo.
 
 ## 📄 Licença do Projeto/License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/theme-switcher/blob/main/LICENSE) © Silas Martins para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/figurinha-copa-react-native/blob/main/LICENSE) © Silas Martins para mais detalhes.
 
 <br />

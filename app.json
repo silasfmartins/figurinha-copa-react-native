@@ -30,7 +30,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.silasmartins.figurinhacopa"
+      "package": "com.silasmartins.figurinhacopa",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
