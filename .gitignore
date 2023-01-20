@@ -10,5 +10,11 @@ npm-debug.*
 *.orig.*
 web-build/
 
+./metro.config.js
+./eas.json
+
+metro.config.js
+eas.json
+
 # macOS
 .DS_Store

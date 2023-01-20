@@ -29,7 +29,7 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível baixar a aplicação para Android neste link: https://drive.google.com/drive/folders/1r78w1KtOsU9jVxGNdOjnyWgMZQBvSsIA .
+É possível baixar a aplicação para Android neste link: [Link](https://drive.google.com/file/d/1XW4tRqs6kouhi3YFS1uoGVL0Zh8LLCh2/view?usp=sharing).
 
 ## 👨‍💻 Contribuir / Contributing
 
